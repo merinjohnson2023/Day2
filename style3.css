@@ -1,0 +1,21 @@
+.box{
+    margin:250px;
+    padding-left: 20px;
+    padding-top: 30px;
+    border-width:3px; 
+    border-style: ridge;
+     width: 500px;
+     height: 300px;
+
+
+
+
+}
+.container1{
+    background-image: url(./img9.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    padding-top: 40px;
+
+}
